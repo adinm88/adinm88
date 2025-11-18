@@ -1,6 +1,6 @@
 # Hi, I'm Adin! 👋
 
-I am a high school senior wanting to pursue Computer Science at Iowa State University! I am currently in 6 DMACC classes this year to get ahead of the curve a bit. I have taken AP CSA and AP CSP and I am currently in Calc AB, Macroeconomics, and Lang.
+I am a high school senior wanting to pursue Computer Science at Iowa State University! I am currently in 7 DMACC classes this year to get ahead of the curve a bit. I have taken AP CSA and AP CSP, and I am currently in AP Calc AB, AP Macroeconomics, and AP Lang.
 
 ![<adinm88>'s Stats](https://github-readme-stats.vercel.app/api?username=adinm88&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
