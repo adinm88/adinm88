@@ -14,7 +14,7 @@ I am a high school senior wanting to pursue Computer Science at Iowa State Unive
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development (JS, HTML, CSS) (January)
+- 🚀 Learning Web Development (HTML, CSS) (January)
 - Refining my Java and Python skills
 - Learning C#
 - Learning Database (SQL)
