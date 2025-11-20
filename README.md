@@ -25,6 +25,9 @@ I am a high school senior wanting to pursue Computer Science at Iowa State Unive
 
 4 on AP CSP test
 
+3x Academic letter recipient at my school
+
+1x President's list for 4.0 GPA at DMACC
 
 ## 📬 Get in Touch
 
