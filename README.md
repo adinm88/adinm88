@@ -12,7 +12,7 @@ I am a high school senior wanting to pursue Computer Science at Iowa State Unive
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,java,py,sqlite)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## 🌱 What's the plan? (Updated Jan 2026)
 
 - 🚀 Learning Web Development (HTML, CSS) (January)
 - Refining my Java and Python skills
