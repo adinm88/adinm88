@@ -31,7 +31,7 @@ I am a high school senior wanting to pursue Computer Science at Iowa State Unive
 
 ## 📬 Get in Touch
 
-- Connect with me on [Instagram](https://instagram.com/adin.mujakovic)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/adin-mujakovic-5245113a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
