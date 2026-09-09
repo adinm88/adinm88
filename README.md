@@ -1,33 +1,28 @@
 # Hi, I'm Adin! 👋
 
-I am a high school senior wanting to pursue Computer Science at Iowa State University! I am currently in 4 DMACC classes this semester to get ahead of the curve a bit. I have taken AP CSA, AP CSP and AP Macroeconomics, and I am currently in AP Calc AB, and AP Lang.
-
-![<adinm88>'s Stats](https://github-readme-stats.vercel.app/api?username=adinm88&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am at Iowa State University studying Software Engineering. I am interested in software development, web development, and databases.
 
 ## 🚀 About Me
 
-- 🔭 I want to pursue a Bachelor's or Master's in Computer Science at Iowa State
+- 🎓 Software Engineering student at Iowa State University
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,java,py,sqlite)](https://skillicons.dev)
 
-## 🌱 What's the plan? (Updated Jan 2026)
+## Projects
 
-- 🚀 Learning Web Development (HTML, CSS) (January)
-- Refining my Java and Python skills
-- Learning C#
-- Learning Database (SQL)
+
 
  ## 🏆 Achievements
 
-5 on AP CSA test
+5 on the AP CSA test
 
-4 on AP CSP test
+4 on the AP CSP test
 
 3x Academic letter recipient at my school
 
-1x President's list for 4.0 GPA at DMACC
+1x President's List for a 4.0 GPA at DMACC
 
 ## 📬 Get in Touch
 
