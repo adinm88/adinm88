@@ -10,9 +10,6 @@ I am at Iowa State University studying Software Engineering. I am interested in 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,java,py,sqlite)](https://skillicons.dev)
 
-## Projects
-
-
 
  ## 🏆 Achievements
 
