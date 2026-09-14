@@ -1,6 +1,6 @@
 # Hi, I'm Adin! 👋
 
-I am at Iowa State University studying Software Engineering. I am interested in software development, web development, and databases.
+I am at Iowa State University studying Software Engineering. I am interested in software development, web development, and lots of other things as well
 
 ## 🚀 About Me
 
@@ -10,16 +10,6 @@ I am at Iowa State University studying Software Engineering. I am interested in 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,java,py,sqlite)](https://skillicons.dev)
 
-
- ## 🏆 Achievements
-
-5 on the AP CSA test
-
-4 on the AP CSP test
-
-3x Academic letter recipient at my school
-
-1x President's List for a 4.0 GPA at DMACC
 
 ## 📬 Get in Touch
 
